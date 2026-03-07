@@ -1,0 +1,4802 @@
+[
+  {
+    "name": "Rice",
+    "modal": 7688,
+    "min": 7335,
+    "max": 8418,
+    "trend": "up",
+    "past_7_days": [
+      7504,
+      7871,
+      7593,
+      7859,
+      7692,
+      7567,
+      7795
+    ]
+  },
+  {
+    "name": "Rice Variety 1",
+    "modal": 6433,
+    "min": 5638,
+    "max": 7228,
+    "trend": "down",
+    "past_7_days": [
+      6582,
+      6355,
+      6431,
+      6454,
+      6553,
+      6383,
+      6617
+    ]
+  },
+  {
+    "name": "Rice Variety 2",
+    "modal": 12116,
+    "min": 11227,
+    "max": 12492,
+    "trend": "volatile",
+    "past_7_days": [
+      11954,
+      12311,
+      12088,
+      12151,
+      11982,
+      12284,
+      12231
+    ]
+  },
+  {
+    "name": "Wheat",
+    "modal": 7949,
+    "min": 7225,
+    "max": 8141,
+    "trend": "volatile",
+    "past_7_days": [
+      7889,
+      7871,
+      7834,
+      7950,
+      7998,
+      8045,
+      8125
+    ]
+  },
+  {
+    "name": "Wheat Variety 1",
+    "modal": 10565,
+    "min": 10318,
+    "max": 11115,
+    "trend": "stable",
+    "past_7_days": [
+      10618,
+      10419,
+      10713,
+      10546,
+      10639,
+      10395,
+      10468
+    ]
+  },
+  {
+    "name": "Wheat Variety 2",
+    "modal": 4493,
+    "min": 3112,
+    "max": 4872,
+    "trend": "up",
+    "past_7_days": [
+      4633,
+      4339,
+      4610,
+      4522,
+      4326,
+      4644,
+      4434
+    ]
+  },
+  {
+    "name": "Maize",
+    "modal": 4807,
+    "min": 4173,
+    "max": 5782,
+    "trend": "volatile",
+    "past_7_days": [
+      4731,
+      4820,
+      4926,
+      4814,
+      4705,
+      4812,
+      4971
+    ]
+  },
+  {
+    "name": "Maize Variety 1",
+    "modal": 7511,
+    "min": 6629,
+    "max": 8003,
+    "trend": "volatile",
+    "past_7_days": [
+      7546,
+      7392,
+      7597,
+      7508,
+      7600,
+      7546,
+      7438
+    ]
+  },
+  {
+    "name": "Maize Variety 2",
+    "modal": 9754,
+    "min": 9607,
+    "max": 10668,
+    "trend": "down",
+    "past_7_days": [
+      9580,
+      9658,
+      9923,
+      9643,
+      9657,
+      9678,
+      9600
+    ]
+  },
+  {
+    "name": "Barley",
+    "modal": 7185,
+    "min": 6634,
+    "max": 8265,
+    "trend": "up",
+    "past_7_days": [
+      7200,
+      7251,
+      7139,
+      7279,
+      7322,
+      7378,
+      7299
+    ]
+  },
+  {
+    "name": "Barley Variety 1",
+    "modal": 2585,
+    "min": 2003,
+    "max": 3153,
+    "trend": "down",
+    "past_7_days": [
+      2758,
+      2385,
+      2782,
+      2729,
+      2622,
+      2578,
+      2432
+    ]
+  },
+  {
+    "name": "Barley Variety 2",
+    "modal": 10162,
+    "min": 9765,
+    "max": 11069,
+    "trend": "stable",
+    "past_7_days": [
+      10246,
+      10112,
+      10238,
+      10168,
+      10091,
+      10032,
+      10051
+    ]
+  },
+  {
+    "name": "Oats",
+    "modal": 632,
+    "min": 539,
+    "max": 1808,
+    "trend": "up",
+    "past_7_days": [
+      454,
+      713,
+      767,
+      536,
+      767,
+      701,
+      773
+    ]
+  },
+  {
+    "name": "Oats Variety 1",
+    "modal": 6335,
+    "min": 5578,
+    "max": 6737,
+    "trend": "up",
+    "past_7_days": [
+      6254,
+      6228,
+      6299,
+      6423,
+      6517,
+      6370,
+      6406
+    ]
+  },
+  {
+    "name": "Oats Variety 2",
+    "modal": 6497,
+    "min": 6308,
+    "max": 7170,
+    "trend": "up",
+    "past_7_days": [
+      6678,
+      6624,
+      6427,
+      6526,
+      6355,
+      6407,
+      6434
+    ]
+  },
+  {
+    "name": "Rye",
+    "modal": 11545,
+    "min": 10730,
+    "max": 11699,
+    "trend": "volatile",
+    "past_7_days": [
+      11450,
+      11358,
+      11657,
+      11513,
+      11494,
+      11559,
+      11563
+    ]
+  },
+  {
+    "name": "Rye Variety 1",
+    "modal": 5348,
+    "min": 4450,
+    "max": 5758,
+    "trend": "stable",
+    "past_7_days": [
+      5330,
+      5241,
+      5496,
+      5505,
+      5169,
+      5451,
+      5166
+    ]
+  },
+  {
+    "name": "Rye Variety 2",
+    "modal": 4736,
+    "min": 3905,
+    "max": 5483,
+    "trend": "up",
+    "past_7_days": [
+      4818,
+      4620,
+      4591,
+      4563,
+      4651,
+      4699,
+      4869
+    ]
+  },
+  {
+    "name": "Sorghum",
+    "modal": 5698,
+    "min": 5195,
+    "max": 6343,
+    "trend": "stable",
+    "past_7_days": [
+      5513,
+      5544,
+      5565,
+      5785,
+      5655,
+      5779,
+      5724
+    ]
+  },
+  {
+    "name": "Sorghum Variety 1",
+    "modal": 7136,
+    "min": 6829,
+    "max": 8004,
+    "trend": "up",
+    "past_7_days": [
+      7155,
+      7051,
+      6960,
+      7017,
+      7134,
+      7036,
+      7024
+    ]
+  },
+  {
+    "name": "Sorghum Variety 2",
+    "modal": 3690,
+    "min": 2941,
+    "max": 4682,
+    "trend": "up",
+    "past_7_days": [
+      3681,
+      3666,
+      3727,
+      3609,
+      3535,
+      3849,
+      3630
+    ]
+  },
+  {
+    "name": "Bajra",
+    "modal": 8494,
+    "min": 8346,
+    "max": 9249,
+    "trend": "volatile",
+    "past_7_days": [
+      8538,
+      8348,
+      8452,
+      8604,
+      8551,
+      8372,
+      8437
+    ]
+  },
+  {
+    "name": "Bajra Variety 1",
+    "modal": 5864,
+    "min": 5093,
+    "max": 6538,
+    "trend": "stable",
+    "past_7_days": [
+      6009,
+      5876,
+      6011,
+      6054,
+      5890,
+      6021,
+      5763
+    ]
+  },
+  {
+    "name": "Bajra Variety 2",
+    "modal": 6882,
+    "min": 6156,
+    "max": 7466,
+    "trend": "down",
+    "past_7_days": [
+      6872,
+      6771,
+      7068,
+      6738,
+      6956,
+      7042,
+      6888
+    ]
+  },
+  {
+    "name": "Ragi",
+    "modal": 5204,
+    "min": 4599,
+    "max": 5406,
+    "trend": "stable",
+    "past_7_days": [
+      5070,
+      5384,
+      5123,
+      5092,
+      5303,
+      5030,
+      5372
+    ]
+  },
+  {
+    "name": "Ragi Variety 1",
+    "modal": 5265,
+    "min": 4679,
+    "max": 5987,
+    "trend": "down",
+    "past_7_days": [
+      5221,
+      5439,
+      5302,
+      5149,
+      5205,
+      5323,
+      5099
+    ]
+  },
+  {
+    "name": "Ragi Variety 2",
+    "modal": 4798,
+    "min": 4608,
+    "max": 5604,
+    "trend": "stable",
+    "past_7_days": [
+      4828,
+      4902,
+      4632,
+      4692,
+      4753,
+      4716,
+      4718
+    ]
+  },
+  {
+    "name": "Foxtail Millet",
+    "modal": 5408,
+    "min": 4772,
+    "max": 5894,
+    "trend": "up",
+    "past_7_days": [
+      5550,
+      5240,
+      5254,
+      5213,
+      5499,
+      5294,
+      5382
+    ]
+  },
+  {
+    "name": "Foxtail Millet Variety 1",
+    "modal": 2856,
+    "min": 2321,
+    "max": 3199,
+    "trend": "volatile",
+    "past_7_days": [
+      2965,
+      2782,
+      2741,
+      2709,
+      2683,
+      2913,
+      2676
+    ]
+  },
+  {
+    "name": "Foxtail Millet Variety 2",
+    "modal": 10754,
+    "min": 9709,
+    "max": 10866,
+    "trend": "stable",
+    "past_7_days": [
+      10655,
+      10865,
+      10821,
+      10673,
+      10882,
+      10884,
+      10915
+    ]
+  },
+  {
+    "name": "Barnyard Millet",
+    "modal": 2585,
+    "min": 2056,
+    "max": 2903,
+    "trend": "volatile",
+    "past_7_days": [
+      2470,
+      2497,
+      2547,
+      2438,
+      2561,
+      2411,
+      2688
+    ]
+  },
+  {
+    "name": "Barnyard Millet Variety 1",
+    "modal": 9371,
+    "min": 8781,
+    "max": 9710,
+    "trend": "up",
+    "past_7_days": [
+      9461,
+      9294,
+      9326,
+      9190,
+      9344,
+      9506,
+      9465
+    ]
+  },
+  {
+    "name": "Barnyard Millet Variety 2",
+    "modal": 9612,
+    "min": 9144,
+    "max": 10473,
+    "trend": "stable",
+    "past_7_days": [
+      9494,
+      9633,
+      9684,
+      9755,
+      9451,
+      9796,
+      9789
+    ]
+  },
+  {
+    "name": "Kodo Millet",
+    "modal": 1754,
+    "min": 1100,
+    "max": 1932,
+    "trend": "stable",
+    "past_7_days": [
+      1676,
+      1795,
+      1954,
+      1916,
+      1788,
+      1810,
+      1881
+    ]
+  },
+  {
+    "name": "Kodo Millet Variety 1",
+    "modal": 8360,
+    "min": 8293,
+    "max": 9741,
+    "trend": "volatile",
+    "past_7_days": [
+      8528,
+      8529,
+      8530,
+      8201,
+      8527,
+      8191,
+      8409
+    ]
+  },
+  {
+    "name": "Kodo Millet Variety 2",
+    "modal": 2425,
+    "min": 2062,
+    "max": 3159,
+    "trend": "volatile",
+    "past_7_days": [
+      2373,
+      2257,
+      2563,
+      2506,
+      2510,
+      2266,
+      2429
+    ]
+  },
+  {
+    "name": "Little Millet",
+    "modal": 11530,
+    "min": 10532,
+    "max": 12107,
+    "trend": "volatile",
+    "past_7_days": [
+      11709,
+      11494,
+      11355,
+      11369,
+      11696,
+      11661,
+      11616
+    ]
+  },
+  {
+    "name": "Little Millet Variety 1",
+    "modal": 8593,
+    "min": 7998,
+    "max": 8886,
+    "trend": "up",
+    "past_7_days": [
+      8437,
+      8706,
+      8635,
+      8492,
+      8592,
+      8652,
+      8781
+    ]
+  },
+  {
+    "name": "Little Millet Variety 2",
+    "modal": 1227,
+    "min": 605,
+    "max": 1990,
+    "trend": "stable",
+    "past_7_days": [
+      1094,
+      1146,
+      1192,
+      1293,
+      1420,
+      1209,
+      1254
+    ]
+  },
+  {
+    "name": "Gram",
+    "modal": 4364,
+    "min": 3814,
+    "max": 5186,
+    "trend": "down",
+    "past_7_days": [
+      4223,
+      4478,
+      4213,
+      4302,
+      4497,
+      4424,
+      4453
+    ]
+  },
+  {
+    "name": "Gram Variety 1",
+    "modal": 2563,
+    "min": 1820,
+    "max": 3507,
+    "trend": "up",
+    "past_7_days": [
+      2728,
+      2388,
+      2744,
+      2658,
+      2613,
+      2619,
+      2751
+    ]
+  },
+  {
+    "name": "Gram Variety 2",
+    "modal": 1859,
+    "min": 1340,
+    "max": 2236,
+    "trend": "volatile",
+    "past_7_days": [
+      1661,
+      2004,
+      1802,
+      1850,
+      2012,
+      1666,
+      1995
+    ]
+  },
+  {
+    "name": "Lentil",
+    "modal": 9760,
+    "min": 9385,
+    "max": 10906,
+    "trend": "volatile",
+    "past_7_days": [
+      9742,
+      9807,
+      9704,
+      9662,
+      9791,
+      9618,
+      9926
+    ]
+  },
+  {
+    "name": "Lentil Variety 1",
+    "modal": 5206,
+    "min": 4564,
+    "max": 5924,
+    "trend": "down",
+    "past_7_days": [
+      5370,
+      5353,
+      5078,
+      5167,
+      5259,
+      5017,
+      5033
+    ]
+  },
+  {
+    "name": "Lentil Variety 2",
+    "modal": 7483,
+    "min": 6921,
+    "max": 7837,
+    "trend": "stable",
+    "past_7_days": [
+      7408,
+      7683,
+      7348,
+      7335,
+      7439,
+      7474,
+      7631
+    ]
+  },
+  {
+    "name": "Moong",
+    "modal": 2115,
+    "min": 885,
+    "max": 2416,
+    "trend": "up",
+    "past_7_days": [
+      2090,
+      2080,
+      2093,
+      2176,
+      1919,
+      2055,
+      2188
+    ]
+  },
+  {
+    "name": "Moong Variety 1",
+    "modal": 6680,
+    "min": 6585,
+    "max": 7715,
+    "trend": "up",
+    "past_7_days": [
+      6592,
+      6534,
+      6830,
+      6810,
+      6713,
+      6521,
+      6733
+    ]
+  },
+  {
+    "name": "Moong Variety 2",
+    "modal": 7273,
+    "min": 6686,
+    "max": 8135,
+    "trend": "down",
+    "past_7_days": [
+      7400,
+      7084,
+      7268,
+      7385,
+      7278,
+      7350,
+      7114
+    ]
+  },
+  {
+    "name": "Urad",
+    "modal": 6169,
+    "min": 5628,
+    "max": 6379,
+    "trend": "up",
+    "past_7_days": [
+      6125,
+      6319,
+      6145,
+      6218,
+      6053,
+      6026,
+      6029
+    ]
+  },
+  {
+    "name": "Urad Variety 1",
+    "modal": 4207,
+    "min": 3412,
+    "max": 4522,
+    "trend": "volatile",
+    "past_7_days": [
+      4014,
+      4306,
+      4133,
+      4032,
+      4258,
+      4323,
+      4365
+    ]
+  },
+  {
+    "name": "Urad Variety 2",
+    "modal": 3709,
+    "min": 2488,
+    "max": 3814,
+    "trend": "up",
+    "past_7_days": [
+      3574,
+      3672,
+      3575,
+      3594,
+      3624,
+      3745,
+      3872
+    ]
+  },
+  {
+    "name": "Arhar",
+    "modal": 6934,
+    "min": 6780,
+    "max": 7693,
+    "trend": "stable",
+    "past_7_days": [
+      6900,
+      6796,
+      6858,
+      7086,
+      6868,
+      6747,
+      6894
+    ]
+  },
+  {
+    "name": "Arhar Variety 1",
+    "modal": 10719,
+    "min": 10099,
+    "max": 11157,
+    "trend": "up",
+    "past_7_days": [
+      10804,
+      10688,
+      10629,
+      10528,
+      10535,
+      10522,
+      10632
+    ]
+  },
+  {
+    "name": "Arhar Variety 2",
+    "modal": 3665,
+    "min": 3302,
+    "max": 3812,
+    "trend": "stable",
+    "past_7_days": [
+      3556,
+      3515,
+      3798,
+      3823,
+      3624,
+      3653,
+      3746
+    ]
+  },
+  {
+    "name": "Field Pea",
+    "modal": 1611,
+    "min": 1520,
+    "max": 1935,
+    "trend": "up",
+    "past_7_days": [
+      1467,
+      1639,
+      1482,
+      1727,
+      1617,
+      1622,
+      1763
+    ]
+  },
+  {
+    "name": "Field Pea Variety 1",
+    "modal": 1583,
+    "min": 857,
+    "max": 1707,
+    "trend": "stable",
+    "past_7_days": [
+      1390,
+      1669,
+      1538,
+      1405,
+      1498,
+      1725,
+      1401
+    ]
+  },
+  {
+    "name": "Field Pea Variety 2",
+    "modal": 5584,
+    "min": 4927,
+    "max": 6018,
+    "trend": "volatile",
+    "past_7_days": [
+      5662,
+      5510,
+      5504,
+      5611,
+      5549,
+      5720,
+      5460
+    ]
+  },
+  {
+    "name": "Cowpea",
+    "modal": 2890,
+    "min": 2806,
+    "max": 4247,
+    "trend": "down",
+    "past_7_days": [
+      2926,
+      3088,
+      3024,
+      2978,
+      2798,
+      2708,
+      2937
+    ]
+  },
+  {
+    "name": "Cowpea Variety 1",
+    "modal": 3043,
+    "min": 2426,
+    "max": 3726,
+    "trend": "stable",
+    "past_7_days": [
+      3198,
+      2931,
+      3108,
+      3136,
+      2894,
+      2989,
+      3083
+    ]
+  },
+  {
+    "name": "Cowpea Variety 2",
+    "modal": 10159,
+    "min": 9336,
+    "max": 10228,
+    "trend": "up",
+    "past_7_days": [
+      10350,
+      10317,
+      9981,
+      10050,
+      10075,
+      10159,
+      10239
+    ]
+  },
+  {
+    "name": "Horse Gram",
+    "modal": 5182,
+    "min": 4614,
+    "max": 5316,
+    "trend": "down",
+    "past_7_days": [
+      5133,
+      4991,
+      5050,
+      5012,
+      5064,
+      5271,
+      5327
+    ]
+  },
+  {
+    "name": "Horse Gram Variety 1",
+    "modal": 4002,
+    "min": 3782,
+    "max": 4877,
+    "trend": "down",
+    "past_7_days": [
+      4138,
+      4088,
+      4201,
+      4021,
+      3964,
+      3900,
+      4116
+    ]
+  },
+  {
+    "name": "Horse Gram Variety 2",
+    "modal": 1547,
+    "min": 550,
+    "max": 1841,
+    "trend": "down",
+    "past_7_days": [
+      1622,
+      1514,
+      1527,
+      1351,
+      1405,
+      1710,
+      1378
+    ]
+  },
+  {
+    "name": "Soybean",
+    "modal": 10832,
+    "min": 10084,
+    "max": 11450,
+    "trend": "stable",
+    "past_7_days": [
+      11013,
+      10709,
+      11020,
+      10845,
+      10867,
+      10751,
+      10971
+    ]
+  },
+  {
+    "name": "Soybean Variety 1",
+    "modal": 8850,
+    "min": 8534,
+    "max": 9258,
+    "trend": "up",
+    "past_7_days": [
+      8771,
+      8877,
+      8682,
+      8870,
+      8934,
+      9047,
+      9023
+    ]
+  },
+  {
+    "name": "Soybean Variety 2",
+    "modal": 1858,
+    "min": 1788,
+    "max": 3163,
+    "trend": "up",
+    "past_7_days": [
+      1884,
+      1999,
+      1787,
+      1902,
+      1870,
+      2034,
+      1924
+    ]
+  },
+  {
+    "name": "Groundnut",
+    "modal": 9669,
+    "min": 8516,
+    "max": 10181,
+    "trend": "stable",
+    "past_7_days": [
+      9501,
+      9547,
+      9788,
+      9816,
+      9551,
+      9730,
+      9822
+    ]
+  },
+  {
+    "name": "Groundnut Variety 1",
+    "modal": 4140,
+    "min": 3890,
+    "max": 4572,
+    "trend": "up",
+    "past_7_days": [
+      4155,
+      4113,
+      4230,
+      4135,
+      4290,
+      4289,
+      4035
+    ]
+  },
+  {
+    "name": "Groundnut Variety 2",
+    "modal": 631,
+    "min": 217,
+    "max": 1070,
+    "trend": "up",
+    "past_7_days": [
+      680,
+      792,
+      735,
+      718,
+      487,
+      575,
+      558
+    ]
+  },
+  {
+    "name": "Mustard",
+    "modal": 4793,
+    "min": 3931,
+    "max": 5162,
+    "trend": "stable",
+    "past_7_days": [
+      4801,
+      4786,
+      4829,
+      4604,
+      4837,
+      4757,
+      4797
+    ]
+  },
+  {
+    "name": "Mustard Variety 1",
+    "modal": 10747,
+    "min": 10461,
+    "max": 11239,
+    "trend": "up",
+    "past_7_days": [
+      10853,
+      10779,
+      10712,
+      10756,
+      10853,
+      10612,
+      10678
+    ]
+  },
+  {
+    "name": "Mustard Variety 2",
+    "modal": 5291,
+    "min": 5223,
+    "max": 5476,
+    "trend": "up",
+    "past_7_days": [
+      5278,
+      5298,
+      5119,
+      5197,
+      5203,
+      5185,
+      5297
+    ]
+  },
+  {
+    "name": "Sesame",
+    "modal": 2344,
+    "min": 1708,
+    "max": 2830,
+    "trend": "volatile",
+    "past_7_days": [
+      2176,
+      2535,
+      2239,
+      2444,
+      2291,
+      2449,
+      2309
+    ]
+  },
+  {
+    "name": "Sesame Variety 1",
+    "modal": 11644,
+    "min": 11022,
+    "max": 12122,
+    "trend": "volatile",
+    "past_7_days": [
+      11811,
+      11745,
+      11757,
+      11560,
+      11803,
+      11525,
+      11513
+    ]
+  },
+  {
+    "name": "Sesame Variety 2",
+    "modal": 1218,
+    "min": 995,
+    "max": 1271,
+    "trend": "down",
+    "past_7_days": [
+      1126,
+      1249,
+      1280,
+      1050,
+      1192,
+      1277,
+      1404
+    ]
+  },
+  {
+    "name": "Sunflower",
+    "modal": 5993,
+    "min": 5289,
+    "max": 6576,
+    "trend": "stable",
+    "past_7_days": [
+      5887,
+      5909,
+      5955,
+      5855,
+      5852,
+      6113,
+      5949
+    ]
+  },
+  {
+    "name": "Sunflower Variety 1",
+    "modal": 10129,
+    "min": 9614,
+    "max": 10602,
+    "trend": "down",
+    "past_7_days": [
+      10144,
+      10006,
+      9942,
+      10311,
+      10126,
+      10045,
+      10093
+    ]
+  },
+  {
+    "name": "Sunflower Variety 2",
+    "modal": 9226,
+    "min": 8295,
+    "max": 9804,
+    "trend": "stable",
+    "past_7_days": [
+      9227,
+      9286,
+      9235,
+      9268,
+      9271,
+      9380,
+      9352
+    ]
+  },
+  {
+    "name": "Safflower",
+    "modal": 3477,
+    "min": 3382,
+    "max": 4059,
+    "trend": "down",
+    "past_7_days": [
+      3457,
+      3670,
+      3373,
+      3613,
+      3665,
+      3349,
+      3629
+    ]
+  },
+  {
+    "name": "Safflower Variety 1",
+    "modal": 3464,
+    "min": 2032,
+    "max": 3590,
+    "trend": "down",
+    "past_7_days": [
+      3581,
+      3271,
+      3269,
+      3364,
+      3443,
+      3519,
+      3566
+    ]
+  },
+  {
+    "name": "Safflower Variety 2",
+    "modal": 10925,
+    "min": 10232,
+    "max": 11161,
+    "trend": "up",
+    "past_7_days": [
+      10941,
+      10910,
+      11068,
+      10818,
+      10838,
+      11011,
+      10865
+    ]
+  },
+  {
+    "name": "Linseed",
+    "modal": 1861,
+    "min": 900,
+    "max": 2029,
+    "trend": "volatile",
+    "past_7_days": [
+      1981,
+      1832,
+      1844,
+      1855,
+      1841,
+      1949,
+      2035
+    ]
+  },
+  {
+    "name": "Linseed Variety 1",
+    "modal": 1049,
+    "min": 153,
+    "max": 1395,
+    "trend": "volatile",
+    "past_7_days": [
+      1029,
+      993,
+      934,
+      894,
+      1218,
+      1033,
+      1073
+    ]
+  },
+  {
+    "name": "Linseed Variety 2",
+    "modal": 7769,
+    "min": 7394,
+    "max": 8576,
+    "trend": "volatile",
+    "past_7_days": [
+      7742,
+      7880,
+      7903,
+      7745,
+      7807,
+      7644,
+      7724
+    ]
+  },
+  {
+    "name": "Castor",
+    "modal": 6932,
+    "min": 6727,
+    "max": 7317,
+    "trend": "volatile",
+    "past_7_days": [
+      7110,
+      6923,
+      6782,
+      6990,
+      6861,
+      6915,
+      6945
+    ]
+  },
+  {
+    "name": "Castor Variety 1",
+    "modal": 5293,
+    "min": 4138,
+    "max": 5408,
+    "trend": "volatile",
+    "past_7_days": [
+      5128,
+      5115,
+      5398,
+      5109,
+      5251,
+      5408,
+      5232
+    ]
+  },
+  {
+    "name": "Castor Variety 2",
+    "modal": 6491,
+    "min": 5322,
+    "max": 6692,
+    "trend": "stable",
+    "past_7_days": [
+      6649,
+      6524,
+      6450,
+      6687,
+      6366,
+      6630,
+      6606
+    ]
+  },
+  {
+    "name": "Cotton",
+    "modal": 6694,
+    "min": 5856,
+    "max": 6921,
+    "trend": "volatile",
+    "past_7_days": [
+      6575,
+      6752,
+      6754,
+      6774,
+      6866,
+      6510,
+      6806
+    ]
+  },
+  {
+    "name": "Cotton Variety 1",
+    "modal": 7667,
+    "min": 7140,
+    "max": 8301,
+    "trend": "volatile",
+    "past_7_days": [
+      7844,
+      7679,
+      7633,
+      7566,
+      7530,
+      7626,
+      7827
+    ]
+  },
+  {
+    "name": "Cotton Variety 2",
+    "modal": 4771,
+    "min": 4153,
+    "max": 5399,
+    "trend": "up",
+    "past_7_days": [
+      4794,
+      4745,
+      4933,
+      4704,
+      4701,
+      4934,
+      4926
+    ]
+  },
+  {
+    "name": "Jute",
+    "modal": 6173,
+    "min": 5901,
+    "max": 7362,
+    "trend": "volatile",
+    "past_7_days": [
+      6007,
+      6184,
+      6095,
+      6145,
+      5973,
+      6293,
+      6276
+    ]
+  },
+  {
+    "name": "Jute Variety 1",
+    "modal": 7851,
+    "min": 7511,
+    "max": 8099,
+    "trend": "volatile",
+    "past_7_days": [
+      8039,
+      8049,
+      7951,
+      7684,
+      7694,
+      7654,
+      7835
+    ]
+  },
+  {
+    "name": "Jute Variety 2",
+    "modal": 11172,
+    "min": 10651,
+    "max": 11930,
+    "trend": "stable",
+    "past_7_days": [
+      10997,
+      11310,
+      11185,
+      11161,
+      11024,
+      11294,
+      11367
+    ]
+  },
+  {
+    "name": "Sugarcane",
+    "modal": 10936,
+    "min": 10555,
+    "max": 12047,
+    "trend": "up",
+    "past_7_days": [
+      10738,
+      11042,
+      11134,
+      11054,
+      10760,
+      10914,
+      10842
+    ]
+  },
+  {
+    "name": "Sugarcane Variety 1",
+    "modal": 10539,
+    "min": 10434,
+    "max": 11932,
+    "trend": "volatile",
+    "past_7_days": [
+      10469,
+      10368,
+      10378,
+      10446,
+      10684,
+      10608,
+      10557
+    ]
+  },
+  {
+    "name": "Sugarcane Variety 2",
+    "modal": 7698,
+    "min": 7592,
+    "max": 8088,
+    "trend": "stable",
+    "past_7_days": [
+      7510,
+      7619,
+      7622,
+      7498,
+      7834,
+      7829,
+      7774
+    ]
+  },
+  {
+    "name": "Tobacco",
+    "modal": 3563,
+    "min": 3086,
+    "max": 4388,
+    "trend": "down",
+    "past_7_days": [
+      3666,
+      3614,
+      3426,
+      3681,
+      3501,
+      3480,
+      3616
+    ]
+  },
+  {
+    "name": "Tobacco Variety 1",
+    "modal": 11481,
+    "min": 10652,
+    "max": 12030,
+    "trend": "stable",
+    "past_7_days": [
+      11290,
+      11622,
+      11636,
+      11606,
+      11401,
+      11322,
+      11628
+    ]
+  },
+  {
+    "name": "Tobacco Variety 2",
+    "modal": 9574,
+    "min": 9460,
+    "max": 9990,
+    "trend": "down",
+    "past_7_days": [
+      9585,
+      9539,
+      9533,
+      9397,
+      9452,
+      9508,
+      9613
+    ]
+  },
+  {
+    "name": "Tea",
+    "modal": 10814,
+    "min": 9729,
+    "max": 11131,
+    "trend": "down",
+    "past_7_days": [
+      10845,
+      10691,
+      10651,
+      10727,
+      10933,
+      10730,
+      10764
+    ]
+  },
+  {
+    "name": "Tea Variety 1",
+    "modal": 8300,
+    "min": 8205,
+    "max": 9105,
+    "trend": "up",
+    "past_7_days": [
+      8135,
+      8227,
+      8499,
+      8169,
+      8210,
+      8474,
+      8500
+    ]
+  },
+  {
+    "name": "Tea Variety 2",
+    "modal": 11930,
+    "min": 10595,
+    "max": 12011,
+    "trend": "volatile",
+    "past_7_days": [
+      12100,
+      12062,
+      11787,
+      11985,
+      11900,
+      11811,
+      11801
+    ]
+  },
+  {
+    "name": "Coffee",
+    "modal": 10180,
+    "min": 9251,
+    "max": 10392,
+    "trend": "volatile",
+    "past_7_days": [
+      10299,
+      10108,
+      10237,
+      10299,
+      10323,
+      10378,
+      10218
+    ]
+  },
+  {
+    "name": "Coffee Variety 1",
+    "modal": 11404,
+    "min": 11351,
+    "max": 11725,
+    "trend": "volatile",
+    "past_7_days": [
+      11256,
+      11538,
+      11442,
+      11576,
+      11465,
+      11226,
+      11246
+    ]
+  },
+  {
+    "name": "Coffee Variety 2",
+    "modal": 9022,
+    "min": 8468,
+    "max": 9748,
+    "trend": "stable",
+    "past_7_days": [
+      8885,
+      8950,
+      9108,
+      9119,
+      8853,
+      8939,
+      8923
+    ]
+  },
+  {
+    "name": "Rubber",
+    "modal": 2059,
+    "min": 1743,
+    "max": 2682,
+    "trend": "stable",
+    "past_7_days": [
+      2166,
+      2255,
+      2009,
+      1945,
+      2210,
+      2107,
+      1959
+    ]
+  },
+  {
+    "name": "Rubber Variety 1",
+    "modal": 3724,
+    "min": 3607,
+    "max": 5099,
+    "trend": "volatile",
+    "past_7_days": [
+      3610,
+      3748,
+      3759,
+      3670,
+      3884,
+      3823,
+      3848
+    ]
+  },
+  {
+    "name": "Rubber Variety 2",
+    "modal": 9274,
+    "min": 8937,
+    "max": 9358,
+    "trend": "stable",
+    "past_7_days": [
+      9456,
+      9084,
+      9202,
+      9121,
+      9451,
+      9088,
+      9325
+    ]
+  },
+  {
+    "name": "Cocoa",
+    "modal": 8739,
+    "min": 8432,
+    "max": 10037,
+    "trend": "down",
+    "past_7_days": [
+      8759,
+      8863,
+      8698,
+      8849,
+      8637,
+      8613,
+      8568
+    ]
+  },
+  {
+    "name": "Cocoa Variety 1",
+    "modal": 8455,
+    "min": 8053,
+    "max": 9045,
+    "trend": "up",
+    "past_7_days": [
+      8652,
+      8521,
+      8355,
+      8311,
+      8296,
+      8266,
+      8454
+    ]
+  },
+  {
+    "name": "Cocoa Variety 2",
+    "modal": 3397,
+    "min": 3343,
+    "max": 4178,
+    "trend": "volatile",
+    "past_7_days": [
+      3241,
+      3432,
+      3452,
+      3365,
+      3336,
+      3404,
+      3397
+    ]
+  },
+  {
+    "name": "Banana",
+    "modal": 2668,
+    "min": 2439,
+    "max": 3220,
+    "trend": "down",
+    "past_7_days": [
+      2794,
+      2478,
+      2855,
+      2794,
+      2839,
+      2491,
+      2775
+    ]
+  },
+  {
+    "name": "Banana Variety 1",
+    "modal": 3048,
+    "min": 2942,
+    "max": 3539,
+    "trend": "volatile",
+    "past_7_days": [
+      2972,
+      3052,
+      2929,
+      3033,
+      3064,
+      2851,
+      2909
+    ]
+  },
+  {
+    "name": "Banana Variety 2",
+    "modal": 4268,
+    "min": 3818,
+    "max": 4512,
+    "trend": "volatile",
+    "past_7_days": [
+      4429,
+      4329,
+      4117,
+      4228,
+      4330,
+      4148,
+      4436
+    ]
+  },
+  {
+    "name": "Mango",
+    "modal": 9844,
+    "min": 9168,
+    "max": 10121,
+    "trend": "down",
+    "past_7_days": [
+      9932,
+      10012,
+      9720,
+      9963,
+      10005,
+      9983,
+      9716
+    ]
+  },
+  {
+    "name": "Mango Variety 1",
+    "modal": 9818,
+    "min": 9276,
+    "max": 10277,
+    "trend": "down",
+    "past_7_days": [
+      9877,
+      10009,
+      9783,
+      9679,
+      9879,
+      9818,
+      9792
+    ]
+  },
+  {
+    "name": "Mango Variety 2",
+    "modal": 9122,
+    "min": 8697,
+    "max": 9352,
+    "trend": "down",
+    "past_7_days": [
+      9064,
+      9310,
+      9121,
+      8926,
+      8968,
+      9021,
+      9181
+    ]
+  },
+  {
+    "name": "Papaya",
+    "modal": 11523,
+    "min": 11022,
+    "max": 11654,
+    "trend": "down",
+    "past_7_days": [
+      11400,
+      11374,
+      11686,
+      11550,
+      11357,
+      11682,
+      11624
+    ]
+  },
+  {
+    "name": "Papaya Variety 1",
+    "modal": 1471,
+    "min": 1407,
+    "max": 2328,
+    "trend": "down",
+    "past_7_days": [
+      1323,
+      1451,
+      1305,
+      1563,
+      1575,
+      1464,
+      1435
+    ]
+  },
+  {
+    "name": "Papaya Variety 2",
+    "modal": 8755,
+    "min": 8557,
+    "max": 10109,
+    "trend": "volatile",
+    "past_7_days": [
+      8712,
+      8700,
+      8678,
+      8903,
+      8782,
+      8876,
+      8889
+    ]
+  },
+  {
+    "name": "Guava",
+    "modal": 8455,
+    "min": 8006,
+    "max": 8528,
+    "trend": "volatile",
+    "past_7_days": [
+      8543,
+      8505,
+      8583,
+      8452,
+      8488,
+      8596,
+      8422
+    ]
+  },
+  {
+    "name": "Guava Variety 1",
+    "modal": 7276,
+    "min": 7078,
+    "max": 7664,
+    "trend": "down",
+    "past_7_days": [
+      7390,
+      7330,
+      7268,
+      7140,
+      7301,
+      7385,
+      7096
+    ]
+  },
+  {
+    "name": "Guava Variety 2",
+    "modal": 9583,
+    "min": 9468,
+    "max": 10500,
+    "trend": "volatile",
+    "past_7_days": [
+      9691,
+      9747,
+      9390,
+      9581,
+      9465,
+      9591,
+      9635
+    ]
+  },
+  {
+    "name": "Apple",
+    "modal": 5711,
+    "min": 5479,
+    "max": 5844,
+    "trend": "volatile",
+    "past_7_days": [
+      5757,
+      5583,
+      5731,
+      5871,
+      5602,
+      5846,
+      5907
+    ]
+  },
+  {
+    "name": "Apple Variety 1",
+    "modal": 8658,
+    "min": 8260,
+    "max": 9288,
+    "trend": "volatile",
+    "past_7_days": [
+      8844,
+      8567,
+      8592,
+      8694,
+      8518,
+      8469,
+      8490
+    ]
+  },
+  {
+    "name": "Apple Variety 2",
+    "modal": 9587,
+    "min": 9416,
+    "max": 10503,
+    "trend": "down",
+    "past_7_days": [
+      9478,
+      9439,
+      9575,
+      9411,
+      9538,
+      9485,
+      9405
+    ]
+  },
+  {
+    "name": "Pear",
+    "modal": 1117,
+    "min": 958,
+    "max": 1879,
+    "trend": "down",
+    "past_7_days": [
+      959,
+      1076,
+      1219,
+      1314,
+      923,
+      1098,
+      1040
+    ]
+  },
+  {
+    "name": "Pear Variety 1",
+    "modal": 4422,
+    "min": 4216,
+    "max": 4615,
+    "trend": "stable",
+    "past_7_days": [
+      4308,
+      4314,
+      4263,
+      4575,
+      4519,
+      4529,
+      4604
+    ]
+  },
+  {
+    "name": "Pear Variety 2",
+    "modal": 9131,
+    "min": 8697,
+    "max": 10026,
+    "trend": "down",
+    "past_7_days": [
+      9159,
+      9231,
+      8943,
+      8972,
+      9314,
+      8933,
+      8974
+    ]
+  },
+  {
+    "name": "Peach",
+    "modal": 7300,
+    "min": 6691,
+    "max": 8321,
+    "trend": "up",
+    "past_7_days": [
+      7215,
+      7423,
+      7214,
+      7395,
+      7482,
+      7360,
+      7270
+    ]
+  },
+  {
+    "name": "Peach Variety 1",
+    "modal": 9546,
+    "min": 9220,
+    "max": 10503,
+    "trend": "up",
+    "past_7_days": [
+      9669,
+      9579,
+      9380,
+      9559,
+      9496,
+      9441,
+      9352
+    ]
+  },
+  {
+    "name": "Peach Variety 2",
+    "modal": 7367,
+    "min": 6485,
+    "max": 7741,
+    "trend": "stable",
+    "past_7_days": [
+      7250,
+      7325,
+      7291,
+      7263,
+      7299,
+      7558,
+      7252
+    ]
+  },
+  {
+    "name": "Plum",
+    "modal": 4985,
+    "min": 4552,
+    "max": 5670,
+    "trend": "stable",
+    "past_7_days": [
+      5042,
+      4888,
+      4786,
+      4860,
+      5055,
+      4897,
+      5153
+    ]
+  },
+  {
+    "name": "Plum Variety 1",
+    "modal": 6730,
+    "min": 5951,
+    "max": 7140,
+    "trend": "down",
+    "past_7_days": [
+      6584,
+      6865,
+      6665,
+      6870,
+      6823,
+      6914,
+      6662
+    ]
+  },
+  {
+    "name": "Plum Variety 2",
+    "modal": 9994,
+    "min": 9221,
+    "max": 10350,
+    "trend": "down",
+    "past_7_days": [
+      9940,
+      10101,
+      10056,
+      10070,
+      9973,
+      9924,
+      9921
+    ]
+  },
+  {
+    "name": "Apricot",
+    "modal": 3237,
+    "min": 3034,
+    "max": 4205,
+    "trend": "down",
+    "past_7_days": [
+      3136,
+      3193,
+      3166,
+      3209,
+      3059,
+      3205,
+      3341
+    ]
+  },
+  {
+    "name": "Apricot Variety 1",
+    "modal": 9797,
+    "min": 9670,
+    "max": 10694,
+    "trend": "down",
+    "past_7_days": [
+      9725,
+      9815,
+      9756,
+      9835,
+      9931,
+      9718,
+      9621
+    ]
+  },
+  {
+    "name": "Apricot Variety 2",
+    "modal": 5458,
+    "min": 4807,
+    "max": 6163,
+    "trend": "up",
+    "past_7_days": [
+      5570,
+      5332,
+      5291,
+      5471,
+      5329,
+      5359,
+      5581
+    ]
+  },
+  {
+    "name": "Grapes",
+    "modal": 8850,
+    "min": 8452,
+    "max": 9026,
+    "trend": "volatile",
+    "past_7_days": [
+      8849,
+      8896,
+      8934,
+      8669,
+      8956,
+      8831,
+      8830
+    ]
+  },
+  {
+    "name": "Grapes Variety 1",
+    "modal": 2721,
+    "min": 2606,
+    "max": 3420,
+    "trend": "volatile",
+    "past_7_days": [
+      2782,
+      2697,
+      2594,
+      2898,
+      2667,
+      2689,
+      2902
+    ]
+  },
+  {
+    "name": "Grapes Variety 2",
+    "modal": 5153,
+    "min": 4487,
+    "max": 5461,
+    "trend": "volatile",
+    "past_7_days": [
+      5175,
+      4980,
+      5161,
+      5117,
+      5195,
+      5124,
+      5321
+    ]
+  },
+  {
+    "name": "Pomegranate",
+    "modal": 12098,
+    "min": 11009,
+    "max": 12367,
+    "trend": "up",
+    "past_7_days": [
+      11901,
+      12003,
+      12237,
+      12102,
+      11965,
+      12278,
+      11910
+    ]
+  },
+  {
+    "name": "Pomegranate Variety 1",
+    "modal": 10222,
+    "min": 9229,
+    "max": 10521,
+    "trend": "down",
+    "past_7_days": [
+      10210,
+      10357,
+      10202,
+      10080,
+      10407,
+      10291,
+      10386
+    ]
+  },
+  {
+    "name": "Pomegranate Variety 2",
+    "modal": 1512,
+    "min": 681,
+    "max": 2339,
+    "trend": "stable",
+    "past_7_days": [
+      1322,
+      1665,
+      1526,
+      1405,
+      1404,
+      1359,
+      1675
+    ]
+  },
+  {
+    "name": "Orange",
+    "modal": 9980,
+    "min": 9465,
+    "max": 10324,
+    "trend": "volatile",
+    "past_7_days": [
+      9809,
+      9984,
+      9884,
+      10168,
+      9890,
+      10089,
+      9925
+    ]
+  },
+  {
+    "name": "Orange Variety 1",
+    "modal": 11851,
+    "min": 11573,
+    "max": 12195,
+    "trend": "stable",
+    "past_7_days": [
+      11713,
+      11823,
+      11764,
+      11812,
+      11931,
+      11725,
+      11982
+    ]
+  },
+  {
+    "name": "Orange Variety 2",
+    "modal": 11482,
+    "min": 11301,
+    "max": 11751,
+    "trend": "up",
+    "past_7_days": [
+      11682,
+      11307,
+      11627,
+      11344,
+      11370,
+      11386,
+      11443
+    ]
+  },
+  {
+    "name": "Lemon",
+    "modal": 8635,
+    "min": 7382,
+    "max": 8876,
+    "trend": "up",
+    "past_7_days": [
+      8652,
+      8589,
+      8567,
+      8469,
+      8440,
+      8649,
+      8785
+    ]
+  },
+  {
+    "name": "Lemon Variety 1",
+    "modal": 7536,
+    "min": 6844,
+    "max": 8050,
+    "trend": "down",
+    "past_7_days": [
+      7437,
+      7393,
+      7608,
+      7605,
+      7466,
+      7463,
+      7396
+    ]
+  },
+  {
+    "name": "Lemon Variety 2",
+    "modal": 5153,
+    "min": 4583,
+    "max": 5569,
+    "trend": "up",
+    "past_7_days": [
+      5110,
+      5255,
+      5345,
+      5067,
+      5162,
+      5065,
+      5044
+    ]
+  },
+  {
+    "name": "Lime",
+    "modal": 3045,
+    "min": 2271,
+    "max": 3702,
+    "trend": "stable",
+    "past_7_days": [
+      3099,
+      2915,
+      3146,
+      2971,
+      3126,
+      3050,
+      2939
+    ]
+  },
+  {
+    "name": "Lime Variety 1",
+    "modal": 12241,
+    "min": 11128,
+    "max": 12597,
+    "trend": "up",
+    "past_7_days": [
+      12389,
+      12208,
+      12337,
+      12243,
+      12092,
+      12092,
+      12056
+    ]
+  },
+  {
+    "name": "Lime Variety 2",
+    "modal": 8529,
+    "min": 8218,
+    "max": 9351,
+    "trend": "stable",
+    "past_7_days": [
+      8507,
+      8472,
+      8669,
+      8671,
+      8469,
+      8549,
+      8701
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "modal": 808,
+    "min": 447,
+    "max": 1244,
+    "trend": "stable",
+    "past_7_days": [
+      697,
+      989,
+      804,
+      872,
+      798,
+      897,
+      847
+    ]
+  },
+  {
+    "name": "Watermelon Variety 1",
+    "modal": 7656,
+    "min": 7410,
+    "max": 8543,
+    "trend": "up",
+    "past_7_days": [
+      7519,
+      7478,
+      7728,
+      7564,
+      7647,
+      7532,
+      7494
+    ]
+  },
+  {
+    "name": "Watermelon Variety 2",
+    "modal": 2029,
+    "min": 1714,
+    "max": 2522,
+    "trend": "down",
+    "past_7_days": [
+      2204,
+      2103,
+      2155,
+      2208,
+      2195,
+      1955,
+      2228
+    ]
+  },
+  {
+    "name": "Muskmelon",
+    "modal": 11509,
+    "min": 11078,
+    "max": 12706,
+    "trend": "up",
+    "past_7_days": [
+      11616,
+      11387,
+      11551,
+      11344,
+      11315,
+      11484,
+      11551
+    ]
+  },
+  {
+    "name": "Muskmelon Variety 1",
+    "modal": 8288,
+    "min": 7988,
+    "max": 8663,
+    "trend": "volatile",
+    "past_7_days": [
+      8172,
+      8136,
+      8414,
+      8202,
+      8415,
+      8262,
+      8365
+    ]
+  },
+  {
+    "name": "Muskmelon Variety 2",
+    "modal": 10174,
+    "min": 9320,
+    "max": 10442,
+    "trend": "volatile",
+    "past_7_days": [
+      10212,
+      10172,
+      10275,
+      10063,
+      9992,
+      10331,
+      10106
+    ]
+  },
+  {
+    "name": "Pineapple",
+    "modal": 3146,
+    "min": 2327,
+    "max": 3200,
+    "trend": "volatile",
+    "past_7_days": [
+      3208,
+      3000,
+      2965,
+      3345,
+      3210,
+      3272,
+      3295
+    ]
+  },
+  {
+    "name": "Pineapple Variety 1",
+    "modal": 7816,
+    "min": 6583,
+    "max": 8355,
+    "trend": "volatile",
+    "past_7_days": [
+      7703,
+      7988,
+      7678,
+      7897,
+      8006,
+      7627,
+      7835
+    ]
+  },
+  {
+    "name": "Pineapple Variety 2",
+    "modal": 1572,
+    "min": 730,
+    "max": 1630,
+    "trend": "up",
+    "past_7_days": [
+      1662,
+      1702,
+      1423,
+      1443,
+      1672,
+      1567,
+      1539
+    ]
+  },
+  {
+    "name": "Jackfruit",
+    "modal": 4076,
+    "min": 3315,
+    "max": 4255,
+    "trend": "volatile",
+    "past_7_days": [
+      4047,
+      4035,
+      4011,
+      4253,
+      4180,
+      3994,
+      4226
+    ]
+  },
+  {
+    "name": "Jackfruit Variety 1",
+    "modal": 7962,
+    "min": 7591,
+    "max": 9129,
+    "trend": "volatile",
+    "past_7_days": [
+      8159,
+      8115,
+      7890,
+      8089,
+      7789,
+      7988,
+      7988
+    ]
+  },
+  {
+    "name": "Jackfruit Variety 2",
+    "modal": 8053,
+    "min": 8000,
+    "max": 9098,
+    "trend": "down",
+    "past_7_days": [
+      7892,
+      7975,
+      8004,
+      8028,
+      8054,
+      8081,
+      8032
+    ]
+  },
+  {
+    "name": "Sapota",
+    "modal": 7961,
+    "min": 7083,
+    "max": 8349,
+    "trend": "stable",
+    "past_7_days": [
+      7940,
+      7818,
+      7761,
+      8158,
+      7841,
+      7787,
+      7762
+    ]
+  },
+  {
+    "name": "Sapota Variety 1",
+    "modal": 6954,
+    "min": 6339,
+    "max": 7390,
+    "trend": "up",
+    "past_7_days": [
+      7040,
+      6791,
+      6929,
+      6941,
+      7043,
+      6817,
+      7098
+    ]
+  },
+  {
+    "name": "Sapota Variety 2",
+    "modal": 1127,
+    "min": 1044,
+    "max": 1681,
+    "trend": "down",
+    "past_7_days": [
+      1305,
+      955,
+      1148,
+      1264,
+      1130,
+      954,
+      1266
+    ]
+  },
+  {
+    "name": "Custard Apple",
+    "modal": 3652,
+    "min": 3390,
+    "max": 3845,
+    "trend": "up",
+    "past_7_days": [
+      3518,
+      3558,
+      3772,
+      3725,
+      3475,
+      3744,
+      3772
+    ]
+  },
+  {
+    "name": "Custard Apple Variety 1",
+    "modal": 12164,
+    "min": 11059,
+    "max": 12658,
+    "trend": "up",
+    "past_7_days": [
+      12319,
+      12180,
+      12356,
+      12163,
+      12256,
+      12284,
+      12120
+    ]
+  },
+  {
+    "name": "Custard Apple Variety 2",
+    "modal": 11643,
+    "min": 11006,
+    "max": 11787,
+    "trend": "down",
+    "past_7_days": [
+      11612,
+      11469,
+      11587,
+      11641,
+      11725,
+      11732,
+      11651
+    ]
+  },
+  {
+    "name": "Dragon Fruit",
+    "modal": 8054,
+    "min": 6632,
+    "max": 8133,
+    "trend": "stable",
+    "past_7_days": [
+      8017,
+      8134,
+      8104,
+      7922,
+      7940,
+      7886,
+      8242
+    ]
+  },
+  {
+    "name": "Dragon Fruit Variety 1",
+    "modal": 7355,
+    "min": 6686,
+    "max": 8248,
+    "trend": "up",
+    "past_7_days": [
+      7530,
+      7344,
+      7534,
+      7203,
+      7500,
+      7244,
+      7292
+    ]
+  },
+  {
+    "name": "Dragon Fruit Variety 2",
+    "modal": 6656,
+    "min": 5970,
+    "max": 7020,
+    "trend": "up",
+    "past_7_days": [
+      6469,
+      6728,
+      6589,
+      6495,
+      6843,
+      6673,
+      6527
+    ]
+  },
+  {
+    "name": "Strawberry",
+    "modal": 5819,
+    "min": 5682,
+    "max": 6684,
+    "trend": "up",
+    "past_7_days": [
+      5899,
+      5880,
+      5709,
+      5946,
+      5786,
+      5797,
+      6019
+    ]
+  },
+  {
+    "name": "Strawberry Variety 1",
+    "modal": 7906,
+    "min": 7149,
+    "max": 8548,
+    "trend": "stable",
+    "past_7_days": [
+      7709,
+      8022,
+      8004,
+      7863,
+      8077,
+      7890,
+      8041
+    ]
+  },
+  {
+    "name": "Strawberry Variety 2",
+    "modal": 10434,
+    "min": 8780,
+    "max": 10596,
+    "trend": "stable",
+    "past_7_days": [
+      10405,
+      10500,
+      10587,
+      10476,
+      10365,
+      10529,
+      10508
+    ]
+  },
+  {
+    "name": "Tomato",
+    "modal": 7190,
+    "min": 7089,
+    "max": 8021,
+    "trend": "stable",
+    "past_7_days": [
+      7004,
+      7173,
+      7201,
+      7003,
+      7054,
+      7275,
+      7010
+    ]
+  },
+  {
+    "name": "Tomato Variety 1",
+    "modal": 7811,
+    "min": 7446,
+    "max": 8891,
+    "trend": "up",
+    "past_7_days": [
+      7640,
+      7770,
+      7615,
+      7894,
+      7774,
+      7790,
+      7850
+    ]
+  },
+  {
+    "name": "Tomato Variety 2",
+    "modal": 570,
+    "min": 467,
+    "max": 1527,
+    "trend": "volatile",
+    "past_7_days": [
+      632,
+      543,
+      589,
+      538,
+      417,
+      513,
+      714
+    ]
+  },
+  {
+    "name": "Potato",
+    "modal": 11644,
+    "min": 10892,
+    "max": 12103,
+    "trend": "down",
+    "past_7_days": [
+      11766,
+      11514,
+      11790,
+      11756,
+      11822,
+      11614,
+      11481
+    ]
+  },
+  {
+    "name": "Potato Variety 1",
+    "modal": 9539,
+    "min": 9393,
+    "max": 10505,
+    "trend": "up",
+    "past_7_days": [
+      9646,
+      9638,
+      9567,
+      9631,
+      9350,
+      9445,
+      9531
+    ]
+  },
+  {
+    "name": "Potato Variety 2",
+    "modal": 4118,
+    "min": 3957,
+    "max": 4999,
+    "trend": "up",
+    "past_7_days": [
+      4042,
+      4226,
+      4004,
+      4026,
+      4145,
+      4058,
+      4264
+    ]
+  },
+  {
+    "name": "Onion",
+    "modal": 3805,
+    "min": 3752,
+    "max": 4543,
+    "trend": "volatile",
+    "past_7_days": [
+      3845,
+      3959,
+      3932,
+      3878,
+      3632,
+      3626,
+      3627
+    ]
+  },
+  {
+    "name": "Onion Variety 1",
+    "modal": 4065,
+    "min": 3923,
+    "max": 4166,
+    "trend": "up",
+    "past_7_days": [
+      4240,
+      4029,
+      4043,
+      4073,
+      4125,
+      4067,
+      4078
+    ]
+  },
+  {
+    "name": "Onion Variety 2",
+    "modal": 1378,
+    "min": 656,
+    "max": 1946,
+    "trend": "down",
+    "past_7_days": [
+      1327,
+      1224,
+      1492,
+      1463,
+      1394,
+      1513,
+      1535
+    ]
+  },
+  {
+    "name": "Garlic",
+    "modal": 10003,
+    "min": 9749,
+    "max": 11449,
+    "trend": "down",
+    "past_7_days": [
+      9858,
+      10066,
+      9855,
+      9822,
+      9883,
+      10072,
+      10144
+    ]
+  },
+  {
+    "name": "Garlic Variety 1",
+    "modal": 8994,
+    "min": 8446,
+    "max": 9294,
+    "trend": "volatile",
+    "past_7_days": [
+      8955,
+      9158,
+      8959,
+      8916,
+      9086,
+      9169,
+      9133
+    ]
+  },
+  {
+    "name": "Garlic Variety 2",
+    "modal": 5570,
+    "min": 5075,
+    "max": 5864,
+    "trend": "up",
+    "past_7_days": [
+      5405,
+      5661,
+      5727,
+      5439,
+      5410,
+      5444,
+      5470
+    ]
+  },
+  {
+    "name": "Cabbage",
+    "modal": 12163,
+    "min": 11150,
+    "max": 12759,
+    "trend": "volatile",
+    "past_7_days": [
+      12060,
+      12337,
+      12248,
+      12228,
+      12088,
+      12266,
+      12149
+    ]
+  },
+  {
+    "name": "Cabbage Variety 1",
+    "modal": 1413,
+    "min": 1137,
+    "max": 1482,
+    "trend": "stable",
+    "past_7_days": [
+      1304,
+      1600,
+      1566,
+      1388,
+      1388,
+      1216,
+      1302
+    ]
+  },
+  {
+    "name": "Cabbage Variety 2",
+    "modal": 5873,
+    "min": 4761,
+    "max": 6364,
+    "trend": "up",
+    "past_7_days": [
+      6072,
+      5793,
+      5782,
+      5960,
+      5839,
+      5964,
+      5848
+    ]
+  },
+  {
+    "name": "Cauliflower",
+    "modal": 11469,
+    "min": 10648,
+    "max": 12163,
+    "trend": "down",
+    "past_7_days": [
+      11599,
+      11374,
+      11336,
+      11585,
+      11645,
+      11278,
+      11390
+    ]
+  },
+  {
+    "name": "Cauliflower Variety 1",
+    "modal": 5753,
+    "min": 4937,
+    "max": 5846,
+    "trend": "up",
+    "past_7_days": [
+      5783,
+      5763,
+      5671,
+      5628,
+      5901,
+      5816,
+      5588
+    ]
+  },
+  {
+    "name": "Cauliflower Variety 2",
+    "modal": 2355,
+    "min": 2191,
+    "max": 3761,
+    "trend": "volatile",
+    "past_7_days": [
+      2510,
+      2278,
+      2331,
+      2289,
+      2366,
+      2326,
+      2540
+    ]
+  },
+  {
+    "name": "Broccoli",
+    "modal": 8887,
+    "min": 8412,
+    "max": 9415,
+    "trend": "volatile",
+    "past_7_days": [
+      8798,
+      9036,
+      8709,
+      8864,
+      8801,
+      9061,
+      8881
+    ]
+  },
+  {
+    "name": "Broccoli Variety 1",
+    "modal": 2799,
+    "min": 2374,
+    "max": 3563,
+    "trend": "down",
+    "past_7_days": [
+      2606,
+      2990,
+      2671,
+      2796,
+      2657,
+      2860,
+      2887
+    ]
+  },
+  {
+    "name": "Broccoli Variety 2",
+    "modal": 3495,
+    "min": 2144,
+    "max": 3557,
+    "trend": "down",
+    "past_7_days": [
+      3510,
+      3625,
+      3296,
+      3324,
+      3672,
+      3610,
+      3397
+    ]
+  },
+  {
+    "name": "Carrot",
+    "modal": 12901,
+    "min": 11414,
+    "max": 12951,
+    "trend": "stable",
+    "past_7_days": [
+      12935,
+      12887,
+      12899,
+      13020,
+      13100,
+      12977,
+      13060
+    ]
+  },
+  {
+    "name": "Carrot Variety 1",
+    "modal": 6909,
+    "min": 6626,
+    "max": 7417,
+    "trend": "volatile",
+    "past_7_days": [
+      6930,
+      6935,
+      6809,
+      6928,
+      6799,
+      6712,
+      6904
+    ]
+  },
+  {
+    "name": "Carrot Variety 2",
+    "modal": 11290,
+    "min": 10954,
+    "max": 11678,
+    "trend": "volatile",
+    "past_7_days": [
+      11397,
+      11204,
+      11137,
+      11165,
+      11439,
+      11316,
+      11131
+    ]
+  },
+  {
+    "name": "Radish",
+    "modal": 3075,
+    "min": 2898,
+    "max": 4089,
+    "trend": "up",
+    "past_7_days": [
+      3100,
+      3000,
+      3028,
+      3194,
+      3087,
+      2974,
+      3069
+    ]
+  },
+  {
+    "name": "Radish Variety 1",
+    "modal": 8380,
+    "min": 8330,
+    "max": 10196,
+    "trend": "volatile",
+    "past_7_days": [
+      8510,
+      8456,
+      8388,
+      8514,
+      8246,
+      8257,
+      8203
+    ]
+  },
+  {
+    "name": "Radish Variety 2",
+    "modal": 569,
+    "min": 483,
+    "max": 1530,
+    "trend": "volatile",
+    "past_7_days": [
+      641,
+      413,
+      668,
+      710,
+      560,
+      640,
+      440
+    ]
+  },
+  {
+    "name": "Beetroot",
+    "modal": 2353,
+    "min": 1930,
+    "max": 3266,
+    "trend": "stable",
+    "past_7_days": [
+      2155,
+      2493,
+      2274,
+      2230,
+      2541,
+      2391,
+      2259
+    ]
+  },
+  {
+    "name": "Beetroot Variety 1",
+    "modal": 1717,
+    "min": 1315,
+    "max": 2541,
+    "trend": "stable",
+    "past_7_days": [
+      1577,
+      1537,
+      1882,
+      1642,
+      1823,
+      1835,
+      1848
+    ]
+  },
+  {
+    "name": "Beetroot Variety 2",
+    "modal": 6148,
+    "min": 6019,
+    "max": 6373,
+    "trend": "stable",
+    "past_7_days": [
+      6179,
+      6268,
+      6226,
+      6344,
+      6211,
+      6267,
+      6297
+    ]
+  },
+  {
+    "name": "Turnip",
+    "modal": 4478,
+    "min": 4079,
+    "max": 4632,
+    "trend": "up",
+    "past_7_days": [
+      4513,
+      4313,
+      4477,
+      4382,
+      4308,
+      4605,
+      4551
+    ]
+  },
+  {
+    "name": "Turnip Variety 1",
+    "modal": 3796,
+    "min": 2540,
+    "max": 4303,
+    "trend": "down",
+    "past_7_days": [
+      3889,
+      3693,
+      3782,
+      3781,
+      3606,
+      3718,
+      3871
+    ]
+  },
+  {
+    "name": "Turnip Variety 2",
+    "modal": 7826,
+    "min": 7313,
+    "max": 8626,
+    "trend": "down",
+    "past_7_days": [
+      8022,
+      7731,
+      7877,
+      7743,
+      7965,
+      7879,
+      7763
+    ]
+  },
+  {
+    "name": "Spinach",
+    "modal": 3542,
+    "min": 3179,
+    "max": 4249,
+    "trend": "volatile",
+    "past_7_days": [
+      3570,
+      3601,
+      3736,
+      3391,
+      3392,
+      3463,
+      3550
+    ]
+  },
+  {
+    "name": "Spinach Variety 1",
+    "modal": 1377,
+    "min": 976,
+    "max": 2742,
+    "trend": "down",
+    "past_7_days": [
+      1426,
+      1504,
+      1340,
+      1211,
+      1526,
+      1286,
+      1188
+    ]
+  },
+  {
+    "name": "Spinach Variety 2",
+    "modal": 6835,
+    "min": 6784,
+    "max": 7395,
+    "trend": "volatile",
+    "past_7_days": [
+      6914,
+      7017,
+      7003,
+      6961,
+      6848,
+      6892,
+      6724
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "modal": 3663,
+    "min": 2845,
+    "max": 3777,
+    "trend": "down",
+    "past_7_days": [
+      3834,
+      3824,
+      3801,
+      3761,
+      3754,
+      3557,
+      3567
+    ]
+  },
+  {
+    "name": "Lettuce Variety 1",
+    "modal": 9515,
+    "min": 8875,
+    "max": 9967,
+    "trend": "up",
+    "past_7_days": [
+      9655,
+      9560,
+      9540,
+      9581,
+      9636,
+      9636,
+      9455
+    ]
+  },
+  {
+    "name": "Lettuce Variety 2",
+    "modal": 11071,
+    "min": 10820,
+    "max": 12005,
+    "trend": "down",
+    "past_7_days": [
+      11227,
+      11239,
+      11102,
+      11257,
+      11249,
+      11000,
+      11164
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "modal": 5703,
+    "min": 4930,
+    "max": 6631,
+    "trend": "down",
+    "past_7_days": [
+      5819,
+      5682,
+      5895,
+      5775,
+      5557,
+      5534,
+      5832
+    ]
+  },
+  {
+    "name": "Cucumber Variety 1",
+    "modal": 12531,
+    "min": 11347,
+    "max": 12849,
+    "trend": "stable",
+    "past_7_days": [
+      12596,
+      12520,
+      12583,
+      12393,
+      12695,
+      12605,
+      12569
+    ]
+  },
+  {
+    "name": "Cucumber Variety 2",
+    "modal": 5077,
+    "min": 3987,
+    "max": 5882,
+    "trend": "down",
+    "past_7_days": [
+      4925,
+      4915,
+      5029,
+      4998,
+      5165,
+      4902,
+      4910
+    ]
+  },
+  {
+    "name": "Pumpkin",
+    "modal": 9542,
+    "min": 9364,
+    "max": 9761,
+    "trend": "up",
+    "past_7_days": [
+      9459,
+      9693,
+      9634,
+      9577,
+      9429,
+      9461,
+      9439
+    ]
+  },
+  {
+    "name": "Pumpkin Variety 1",
+    "modal": 6680,
+    "min": 6016,
+    "max": 7420,
+    "trend": "up",
+    "past_7_days": [
+      6779,
+      6694,
+      6496,
+      6596,
+      6851,
+      6801,
+      6842
+    ]
+  },
+  {
+    "name": "Pumpkin Variety 2",
+    "modal": 5219,
+    "min": 5046,
+    "max": 5584,
+    "trend": "stable",
+    "past_7_days": [
+      5288,
+      5290,
+      5184,
+      5306,
+      5050,
+      5257,
+      5264
+    ]
+  },
+  {
+    "name": "Bottle Gourd",
+    "modal": 3187,
+    "min": 2484,
+    "max": 3772,
+    "trend": "up",
+    "past_7_days": [
+      3186,
+      3303,
+      3325,
+      3152,
+      3216,
+      3287,
+      3266
+    ]
+  },
+  {
+    "name": "Bottle Gourd Variety 1",
+    "modal": 4175,
+    "min": 3907,
+    "max": 4726,
+    "trend": "up",
+    "past_7_days": [
+      4006,
+      4051,
+      4313,
+      4226,
+      4312,
+      4116,
+      4055
+    ]
+  },
+  {
+    "name": "Bottle Gourd Variety 2",
+    "modal": 7415,
+    "min": 7230,
+    "max": 7616,
+    "trend": "down",
+    "past_7_days": [
+      7550,
+      7567,
+      7587,
+      7572,
+      7335,
+      7321,
+      7600
+    ]
+  },
+  {
+    "name": "Ridge Gourd",
+    "modal": 6664,
+    "min": 6354,
+    "max": 6925,
+    "trend": "volatile",
+    "past_7_days": [
+      6717,
+      6763,
+      6703,
+      6694,
+      6853,
+      6648,
+      6483
+    ]
+  },
+  {
+    "name": "Ridge Gourd Variety 1",
+    "modal": 7951,
+    "min": 6980,
+    "max": 8326,
+    "trend": "volatile",
+    "past_7_days": [
+      8060,
+      7913,
+      7939,
+      8045,
+      8112,
+      8049,
+      7998
+    ]
+  },
+  {
+    "name": "Ridge Gourd Variety 2",
+    "modal": 6844,
+    "min": 6705,
+    "max": 8217,
+    "trend": "up",
+    "past_7_days": [
+      6801,
+      6718,
+      6994,
+      6678,
+      6713,
+      6711,
+      6939
+    ]
+  },
+  {
+    "name": "Bitter Gourd",
+    "modal": 10050,
+    "min": 9753,
+    "max": 10743,
+    "trend": "stable",
+    "past_7_days": [
+      9969,
+      10246,
+      9863,
+      10208,
+      10211,
+      10224,
+      9964
+    ]
+  },
+  {
+    "name": "Bitter Gourd Variety 1",
+    "modal": 7254,
+    "min": 6682,
+    "max": 7376,
+    "trend": "down",
+    "past_7_days": [
+      7055,
+      7431,
+      7097,
+      7090,
+      7353,
+      7125,
+      7116
+    ]
+  },
+  {
+    "name": "Bitter Gourd Variety 2",
+    "modal": 7022,
+    "min": 6041,
+    "max": 7314,
+    "trend": "up",
+    "past_7_days": [
+      6937,
+      6896,
+      7061,
+      6935,
+      6937,
+      6879,
+      7012
+    ]
+  },
+  {
+    "name": "Snake Gourd",
+    "modal": 4000,
+    "min": 3554,
+    "max": 4078,
+    "trend": "up",
+    "past_7_days": [
+      4150,
+      3945,
+      4136,
+      3984,
+      4094,
+      3929,
+      3876
+    ]
+  },
+  {
+    "name": "Snake Gourd Variety 1",
+    "modal": 9495,
+    "min": 9349,
+    "max": 10258,
+    "trend": "down",
+    "past_7_days": [
+      9344,
+      9690,
+      9645,
+      9422,
+      9617,
+      9691,
+      9659
+    ]
+  },
+  {
+    "name": "Snake Gourd Variety 2",
+    "modal": 10911,
+    "min": 9800,
+    "max": 11068,
+    "trend": "up",
+    "past_7_days": [
+      10716,
+      10870,
+      11022,
+      10995,
+      10926,
+      11037,
+      11109
+    ]
+  },
+  {
+    "name": "Ash Gourd",
+    "modal": 1755,
+    "min": 1403,
+    "max": 2979,
+    "trend": "volatile",
+    "past_7_days": [
+      1916,
+      1618,
+      1920,
+      1779,
+      1921,
+      1726,
+      1612
+    ]
+  },
+  {
+    "name": "Ash Gourd Variety 1",
+    "modal": 1878,
+    "min": 942,
+    "max": 2435,
+    "trend": "down",
+    "past_7_days": [
+      1768,
+      1682,
+      1696,
+      1938,
+      2069,
+      1694,
+      1708
+    ]
+  },
+  {
+    "name": "Ash Gourd Variety 2",
+    "modal": 8596,
+    "min": 8171,
+    "max": 9102,
+    "trend": "volatile",
+    "past_7_days": [
+      8432,
+      8426,
+      8736,
+      8559,
+      8525,
+      8493,
+      8694
+    ]
+  },
+  {
+    "name": "Brinjal",
+    "modal": 9183,
+    "min": 8489,
+    "max": 9321,
+    "trend": "volatile",
+    "past_7_days": [
+      9365,
+      9228,
+      9240,
+      9237,
+      9068,
+      9306,
+      9111
+    ]
+  },
+  {
+    "name": "Brinjal Variety 1",
+    "modal": 4395,
+    "min": 3259,
+    "max": 4446,
+    "trend": "volatile",
+    "past_7_days": [
+      4324,
+      4470,
+      4581,
+      4445,
+      4248,
+      4410,
+      4339
+    ]
+  },
+  {
+    "name": "Brinjal Variety 2",
+    "modal": 12546,
+    "min": 11425,
+    "max": 12612,
+    "trend": "down",
+    "past_7_days": [
+      12522,
+      12456,
+      12712,
+      12716,
+      12618,
+      12635,
+      12622
+    ]
+  },
+  {
+    "name": "Okra",
+    "modal": 6493,
+    "min": 5066,
+    "max": 6843,
+    "trend": "up",
+    "past_7_days": [
+      6327,
+      6319,
+      6411,
+      6561,
+      6430,
+      6305,
+      6623
+    ]
+  },
+  {
+    "name": "Okra Variety 1",
+    "modal": 948,
+    "min": 666,
+    "max": 1755,
+    "trend": "volatile",
+    "past_7_days": [
+      969,
+      767,
+      778,
+      995,
+      907,
+      1051,
+      936
+    ]
+  },
+  {
+    "name": "Okra Variety 2",
+    "modal": 5180,
+    "min": 4775,
+    "max": 5942,
+    "trend": "up",
+    "past_7_days": [
+      5043,
+      5007,
+      5202,
+      5111,
+      5291,
+      5081,
+      5239
+    ]
+  },
+  {
+    "name": "Capsicum",
+    "modal": 5607,
+    "min": 5335,
+    "max": 6335,
+    "trend": "down",
+    "past_7_days": [
+      5499,
+      5583,
+      5738,
+      5804,
+      5475,
+      5410,
+      5424
+    ]
+  },
+  {
+    "name": "Capsicum Variety 1",
+    "modal": 3687,
+    "min": 3474,
+    "max": 4257,
+    "trend": "up",
+    "past_7_days": [
+      3547,
+      3537,
+      3861,
+      3496,
+      3661,
+      3529,
+      3827
+    ]
+  },
+  {
+    "name": "Capsicum Variety 2",
+    "modal": 4876,
+    "min": 4498,
+    "max": 4940,
+    "trend": "up",
+    "past_7_days": [
+      4979,
+      4892,
+      4934,
+      4972,
+      4813,
+      4890,
+      4892
+    ]
+  },
+  {
+    "name": "Green Chilli",
+    "modal": 2552,
+    "min": 1937,
+    "max": 3175,
+    "trend": "stable",
+    "past_7_days": [
+      2723,
+      2516,
+      2573,
+      2646,
+      2539,
+      2556,
+      2562
+    ]
+  },
+  {
+    "name": "Green Chilli Variety 1",
+    "modal": 3975,
+    "min": 3593,
+    "max": 4429,
+    "trend": "up",
+    "past_7_days": [
+      3840,
+      3831,
+      3980,
+      4132,
+      4006,
+      4104,
+      4166
+    ]
+  },
+  {
+    "name": "Green Chilli Variety 2",
+    "modal": 9915,
+    "min": 9323,
+    "max": 10482,
+    "trend": "down",
+    "past_7_days": [
+      10014,
+      9762,
+      9912,
+      9926,
+      10006,
+      9773,
+      9758
+    ]
+  },
+  {
+    "name": "Dry Chilli",
+    "modal": 7594,
+    "min": 7445,
+    "max": 9290,
+    "trend": "up",
+    "past_7_days": [
+      7504,
+      7428,
+      7693,
+      7753,
+      7708,
+      7564,
+      7468
+    ]
+  },
+  {
+    "name": "Dry Chilli Variety 1",
+    "modal": 11497,
+    "min": 10733,
+    "max": 12206,
+    "trend": "down",
+    "past_7_days": [
+      11697,
+      11349,
+      11547,
+      11539,
+      11585,
+      11662,
+      11373
+    ]
+  },
+  {
+    "name": "Dry Chilli Variety 2",
+    "modal": 6688,
+    "min": 5815,
+    "max": 7318,
+    "trend": "stable",
+    "past_7_days": [
+      6504,
+      6822,
+      6580,
+      6666,
+      6696,
+      6564,
+      6753
+    ]
+  },
+  {
+    "name": "Turmeric",
+    "modal": 5159,
+    "min": 4022,
+    "max": 5306,
+    "trend": "volatile",
+    "past_7_days": [
+      4962,
+      5044,
+      5208,
+      5209,
+      5289,
+      5111,
+      4968
+    ]
+  },
+  {
+    "name": "Turmeric Variety 1",
+    "modal": 8783,
+    "min": 8181,
+    "max": 9181,
+    "trend": "down",
+    "past_7_days": [
+      8848,
+      8865,
+      8661,
+      8724,
+      8669,
+      8932,
+      8710
+    ]
+  },
+  {
+    "name": "Turmeric Variety 2",
+    "modal": 1946,
+    "min": 1822,
+    "max": 2266,
+    "trend": "stable",
+    "past_7_days": [
+      2146,
+      1998,
+      1932,
+      1833,
+      2022,
+      1758,
+      1844
+    ]
+  },
+  {
+    "name": "Ginger",
+    "modal": 9370,
+    "min": 8322,
+    "max": 9788,
+    "trend": "down",
+    "past_7_days": [
+      9511,
+      9435,
+      9273,
+      9330,
+      9332,
+      9238,
+      9362
+    ]
+  },
+  {
+    "name": "Ginger Variety 1",
+    "modal": 9471,
+    "min": 8815,
+    "max": 9680,
+    "trend": "up",
+    "past_7_days": [
+      9509,
+      9387,
+      9584,
+      9377,
+      9364,
+      9512,
+      9599
+    ]
+  },
+  {
+    "name": "Ginger Variety 2",
+    "modal": 8454,
+    "min": 7410,
+    "max": 8547,
+    "trend": "volatile",
+    "past_7_days": [
+      8347,
+      8478,
+      8302,
+      8579,
+      8507,
+      8424,
+      8568
+    ]
+  },
+  {
+    "name": "Coriander",
+    "modal": 5653,
+    "min": 5414,
+    "max": 5799,
+    "trend": "down",
+    "past_7_days": [
+      5720,
+      5799,
+      5760,
+      5714,
+      5467,
+      5755,
+      5716
+    ]
+  },
+  {
+    "name": "Coriander Variety 1",
+    "modal": 712,
+    "min": 652,
+    "max": 1791,
+    "trend": "down",
+    "past_7_days": [
+      912,
+      830,
+      550,
+      522,
+      630,
+      717,
+      689
+    ]
+  },
+  {
+    "name": "Coriander Variety 2",
+    "modal": 7268,
+    "min": 7052,
+    "max": 7369,
+    "trend": "volatile",
+    "past_7_days": [
+      7269,
+      7440,
+      7197,
+      7328,
+      7407,
+      7464,
+      7112
+    ]
+  },
+  {
+    "name": "Cumin",
+    "modal": 7004,
+    "min": 6667,
+    "max": 7452,
+    "trend": "down",
+    "past_7_days": [
+      7055,
+      7012,
+      6823,
+      6846,
+      6991,
+      6887,
+      7169
+    ]
+  },
+  {
+    "name": "Cumin Variety 1",
+    "modal": 2389,
+    "min": 2134,
+    "max": 3287,
+    "trend": "down",
+    "past_7_days": [
+      2550,
+      2440,
+      2264,
+      2244,
+      2197,
+      2485,
+      2300
+    ]
+  },
+  {
+    "name": "Cumin Variety 2",
+    "modal": 10187,
+    "min": 9608,
+    "max": 10385,
+    "trend": "stable",
+    "past_7_days": [
+      10155,
+      10355,
+      10255,
+      10218,
+      10246,
+      10000,
+      10197
+    ]
+  },
+  {
+    "name": "Fennel",
+    "modal": 4483,
+    "min": 4115,
+    "max": 4626,
+    "trend": "down",
+    "past_7_days": [
+      4311,
+      4639,
+      4361,
+      4356,
+      4360,
+      4526,
+      4439
+    ]
+  },
+  {
+    "name": "Fennel Variety 1",
+    "modal": 11411,
+    "min": 10950,
+    "max": 11801,
+    "trend": "volatile",
+    "past_7_days": [
+      11357,
+      11449,
+      11512,
+      11512,
+      11277,
+      11438,
+      11603
+    ]
+  },
+  {
+    "name": "Fennel Variety 2",
+    "modal": 2612,
+    "min": 2454,
+    "max": 2754,
+    "trend": "stable",
+    "past_7_days": [
+      2738,
+      2785,
+      2609,
+      2605,
+      2719,
+      2630,
+      2502
+    ]
+  },
+  {
+    "name": "Fenugreek",
+    "modal": 8661,
+    "min": 8480,
+    "max": 9084,
+    "trend": "volatile",
+    "past_7_days": [
+      8562,
+      8520,
+      8851,
+      8549,
+      8497,
+      8858,
+      8843
+    ]
+  },
+  {
+    "name": "Fenugreek Variety 1",
+    "modal": 616,
+    "min": 332,
+    "max": 2165,
+    "trend": "stable",
+    "past_7_days": [
+      632,
+      621,
+      580,
+      441,
+      788,
+      655,
+      604
+    ]
+  },
+  {
+    "name": "Fenugreek Variety 2",
+    "modal": 11057,
+    "min": 10487,
+    "max": 12109,
+    "trend": "volatile",
+    "past_7_days": [
+      10954,
+      11057,
+      10867,
+      11213,
+      11131,
+      11159,
+      10959
+    ]
+  },
+  {
+    "name": "Black Pepper",
+    "modal": 10872,
+    "min": 10140,
+    "max": 11664,
+    "trend": "up",
+    "past_7_days": [
+      10911,
+      10740,
+      10842,
+      11008,
+      10879,
+      10950,
+      10711
+    ]
+  },
+  {
+    "name": "Black Pepper Variety 1",
+    "modal": 6588,
+    "min": 4909,
+    "max": 6770,
+    "trend": "volatile",
+    "past_7_days": [
+      6724,
+      6517,
+      6595,
+      6758,
+      6391,
+      6608,
+      6741
+    ]
+  },
+  {
+    "name": "Black Pepper Variety 2",
+    "modal": 8616,
+    "min": 7407,
+    "max": 8689,
+    "trend": "up",
+    "past_7_days": [
+      8758,
+      8488,
+      8796,
+      8698,
+      8611,
+      8434,
+      8746
+    ]
+  },
+  {
+    "name": "Cardamom",
+    "modal": 6605,
+    "min": 6130,
+    "max": 8005,
+    "trend": "up",
+    "past_7_days": [
+      6767,
+      6671,
+      6754,
+      6601,
+      6535,
+      6761,
+      6469
+    ]
+  },
+  {
+    "name": "Cardamom Variety 1",
+    "modal": 4377,
+    "min": 3936,
+    "max": 4622,
+    "trend": "stable",
+    "past_7_days": [
+      4258,
+      4272,
+      4340,
+      4547,
+      4439,
+      4240,
+      4530
+    ]
+  },
+  {
+    "name": "Cardamom Variety 2",
+    "modal": 5063,
+    "min": 4460,
+    "max": 5914,
+    "trend": "volatile",
+    "past_7_days": [
+      5028,
+      5133,
+      4937,
+      4938,
+      4916,
+      5101,
+      5260
+    ]
+  },
+  {
+    "name": "Clove",
+    "modal": 5873,
+    "min": 5782,
+    "max": 6592,
+    "trend": "up",
+    "past_7_days": [
+      5903,
+      5709,
+      5790,
+      5951,
+      5868,
+      6030,
+      5726
+    ]
+  },
+  {
+    "name": "Clove Variety 1",
+    "modal": 9694,
+    "min": 9087,
+    "max": 10003,
+    "trend": "stable",
+    "past_7_days": [
+      9771,
+      9748,
+      9796,
+      9500,
+      9633,
+      9558,
+      9641
+    ]
+  },
+  {
+    "name": "Clove Variety 2",
+    "modal": 2627,
+    "min": 1491,
+    "max": 3040,
+    "trend": "down",
+    "past_7_days": [
+      2595,
+      2495,
+      2815,
+      2735,
+      2809,
+      2434,
+      2735
+    ]
+  },
+  {
+    "name": "Nutmeg",
+    "modal": 6866,
+    "min": 5772,
+    "max": 7400,
+    "trend": "volatile",
+    "past_7_days": [
+      6767,
+      6820,
+      7062,
+      6975,
+      6725,
+      6787,
+      6894
+    ]
+  },
+  {
+    "name": "Nutmeg Variety 1",
+    "modal": 5078,
+    "min": 4851,
+    "max": 5580,
+    "trend": "down",
+    "past_7_days": [
+      5175,
+      5165,
+      5058,
+      5007,
+      4952,
+      5261,
+      5035
+    ]
+  },
+  {
+    "name": "Nutmeg Variety 2",
+    "modal": 2661,
+    "min": 2325,
+    "max": 3511,
+    "trend": "down",
+    "past_7_days": [
+      2743,
+      2578,
+      2511,
+      2729,
+      2770,
+      2780,
+      2792
+    ]
+  },
+  {
+    "name": "Bay Leaf",
+    "modal": 1782,
+    "min": 1598,
+    "max": 2608,
+    "trend": "volatile",
+    "past_7_days": [
+      1729,
+      1607,
+      1709,
+      1915,
+      1641,
+      1751,
+      1813
+    ]
+  },
+  {
+    "name": "Bay Leaf Variety 1",
+    "modal": 11978,
+    "min": 11622,
+    "max": 12857,
+    "trend": "stable",
+    "past_7_days": [
+      12041,
+      11796,
+      12006,
+      12114,
+      12018,
+      12010,
+      11804
+    ]
+  },
+  {
+    "name": "Bay Leaf Variety 2",
+    "modal": 1726,
+    "min": 1652,
+    "max": 2856,
+    "trend": "down",
+    "past_7_days": [
+      1593,
+      1838,
+      1719,
+      1831,
+      1736,
+      1629,
+      1528
+    ]
+  },
+  {
+    "name": "Vanilla",
+    "modal": 10556,
+    "min": 9583,
+    "max": 11378,
+    "trend": "stable",
+    "past_7_days": [
+      10494,
+      10505,
+      10671,
+      10663,
+      10511,
+      10520,
+      10736
+    ]
+  },
+  {
+    "name": "Vanilla Variety 1",
+    "modal": 6671,
+    "min": 6306,
+    "max": 7632,
+    "trend": "up",
+    "past_7_days": [
+      6475,
+      6523,
+      6838,
+      6770,
+      6531,
+      6526,
+      6737
+    ]
+  },
+  {
+    "name": "Vanilla Variety 2",
+    "modal": 1455,
+    "min": 724,
+    "max": 1712,
+    "trend": "up",
+    "past_7_days": [
+      1646,
+      1390,
+      1517,
+      1330,
+      1343,
+      1359,
+      1599
+    ]
+  },
+  {
+    "name": "Mint",
+    "modal": 1709,
+    "min": 1542,
+    "max": 2300,
+    "trend": "stable",
+    "past_7_days": [
+      1874,
+      1606,
+      1900,
+      1594,
+      1559,
+      1897,
+      1832
+    ]
+  },
+  {
+    "name": "Mint Variety 1",
+    "modal": 7240,
+    "min": 6992,
+    "max": 7677,
+    "trend": "stable",
+    "past_7_days": [
+      7146,
+      7280,
+      7146,
+      7184,
+      7157,
+      7357,
+      7230
+    ]
+  },
+  {
+    "name": "Mint Variety 2",
+    "modal": 1496,
+    "min": 1353,
+    "max": 2211,
+    "trend": "volatile",
+    "past_7_days": [
+      1340,
+      1669,
+      1685,
+      1446,
+      1419,
+      1516,
+      1318
+    ]
+  },
+  {
+    "name": "Basil",
+    "modal": 1018,
+    "min": 862,
+    "max": 1521,
+    "trend": "stable",
+    "past_7_days": [
+      962,
+      890,
+      1096,
+      1105,
+      1117,
+      844,
+      1209
+    ]
+  },
+  {
+    "name": "Basil Variety 1",
+    "modal": 4748,
+    "min": 4183,
+    "max": 5379,
+    "trend": "down",
+    "past_7_days": [
+      4687,
+      4762,
+      4928,
+      4740,
+      4674,
+      4611,
+      4780
+    ]
+  },
+  {
+    "name": "Basil Variety 2",
+    "modal": 4007,
+    "min": 3866,
+    "max": 4574,
+    "trend": "up",
+    "past_7_days": [
+      4014,
+      4122,
+      4002,
+      3954,
+      4071,
+      3846,
+      3984
+    ]
+  },
+  {
+    "name": "Drumstick",
+    "modal": 10966,
+    "min": 10749,
+    "max": 11800,
+    "trend": "down",
+    "past_7_days": [
+      10915,
+      10911,
+      11057,
+      11019,
+      11135,
+      10887,
+      10801
+    ]
+  },
+  {
+    "name": "Drumstick Variety 1",
+    "modal": 1201,
+    "min": 620,
+    "max": 2011,
+    "trend": "down",
+    "past_7_days": [
+      1093,
+      1320,
+      1138,
+      1376,
+      1090,
+      1242,
+      1107
+    ]
+  },
+  {
+    "name": "Drumstick Variety 2",
+    "modal": 7985,
+    "min": 7732,
+    "max": 8265,
+    "trend": "volatile",
+    "past_7_days": [
+      8067,
+      7996,
+      7936,
+      7939,
+      7987,
+      7970,
+      7922
+    ]
+  },
+  {
+    "name": "Sweet Corn",
+    "modal": 11211,
+    "min": 10851,
+    "max": 11730,
+    "trend": "up",
+    "past_7_days": [
+      11146,
+      11042,
+      11312,
+      11343,
+      11045,
+      11401,
+      11188
+    ]
+  },
+  {
+    "name": "Sweet Corn Variety 1",
+    "modal": 7153,
+    "min": 6553,
+    "max": 7322,
+    "trend": "volatile",
+    "past_7_days": [
+      7056,
+      7258,
+      7106,
+      7142,
+      6961,
+      7286,
+      7083
+    ]
+  },
+  {
+    "name": "Sweet Corn Variety 2",
+    "modal": 12294,
+    "min": 11292,
+    "max": 12410,
+    "trend": "down",
+    "past_7_days": [
+      12365,
+      12446,
+      12104,
+      12175,
+      12253,
+      12162,
+      12112
+    ]
+  }
+]
