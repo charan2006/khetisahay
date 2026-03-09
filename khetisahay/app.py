@@ -154,32 +154,55 @@ def detect_pest_and_remedy(image_bytes):
 
 
 def analyze_soil(image_bytes):
-
     try:
+        img = Image.open(io.BytesIO(image_bytes)).convert("RGB")
+        img = img.resize((256, 256))
+        img_array = np.array(img)
+        hsv = rgb2hsv(img_array)
 
-        img=Image.open(io.BytesIO(image_bytes)).convert("RGB")
-        img=img.resize((256,256))
+        regions = [
+            hsv[64:192, 64:192],
+            hsv[0:64, 0:64],
+            hsv[0:64, 192:256],
+            hsv[192:256, 0:64],
+            hsv[192:256, 192:256]
+        ]
 
-        arr=np.array(img)
+        h, s, v = [], [], []
+        for region in regions:
+            h.append(np.mean(region[:, :, 0]) * 360)
+            s.append(np.mean(region[:, :, 1]))
+            v.append(np.mean(region[:, :, 2]))
 
-        avg=np.mean(arr)
+        h_mean = np.mean(h)
+        s_mean = np.mean(s)
+        v_mean = np.mean(v)
 
-        if avg<90:
-            return "Black Soil","Good for cotton"
+        confidence = max(40, min(95, 100 - np.std([h_mean] + h) * 50))
 
-        elif avg>180:
-            return "Sandy Soil","Good drainage soil"
-
-        elif 90<avg<150:
-            return "Loamy Soil","Highly fertile soil"
-
+        if 20 < h_mean < 60 and s_mean > 0.25:
+            soil_type = "Mixed / Uncertain"
+            desc = "Could not confidently classify. Try photo of dry, uniform soil in natural daylight."
+        elif v_mean < 0.45 and s_mean < 0.35:
+            soil_type = "Black soil (Regur)"
+            desc = "Black cotton soil – high clay, good water retention. Ideal for cotton, soybean, wheat."
+        elif s_mean < 0.25 and v_mean > 0.65:
+            soil_type = "Sandy / Sandy Loam"
+            desc = "Light texture, good drainage. Best for groundnut, bajra, vegetables."
+        elif 0.25 < s_mean < 0.55 and 0.45 < v_mean < 0.75:
+            soil_type = "Loamy / Alluvial"
+            desc = "Balanced, fertile. Ideal for rice, wheat, maize, sugarcane."
+        elif h_mean > 180 and s_mean > 0.3 and v_mean < 0.6:
+            soil_type = "Laterite / Wet alluvial"
+            desc = "Acidic, rich in iron. Good for tea, coffee, rubber."
         else:
-            return "Red Soil","Iron rich soil"
+            soil_type = "Red Soil"
+            desc = "Red soil – develops in warm, humid climates."
 
-    except:
-        return "Error","Upload clearer soil image"
+        return soil_type, f"{desc} (approx. confidence: {confidence:.0f}%)"
 
-
+    except Exception as e:
+        return "Error", f"Image analysis failed: {str(e)}. Please upload a clear photo."
 
 @app.route("/",methods=["GET","POST"])
 def index():
